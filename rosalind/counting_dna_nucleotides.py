@@ -1,3 +1,5 @@
+# http://rosalind.info/problems/dna/
+
 def counting_dna_nucleotides(dna_string):
     base_molecules_count = {'A': 0, 'C':0,
                             'G':0, 'T':0}
